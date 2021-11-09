@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wn7h8vtcgg1ko9py?svg=true)](https://ci.appveyor.com/project/Yana-85/auto-pageobject)
